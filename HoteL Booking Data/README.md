@@ -85,4 +85,9 @@ This section will detail the steps taken in the analysis, including:
 ## For more information
 email : kipropgibson13@gmail.com
 The contents are as follows:
+* Data
+* Images
+* .gitignore
+* HotelDemandData.ipynb
+* README.md
 Hotel 
